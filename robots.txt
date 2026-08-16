@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-gwic6r.bokupaybymobile.com/sitemap.xml
